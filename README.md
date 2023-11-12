@@ -18,3 +18,5 @@ The training journey encompasses the model's understanding of contextual informa
 Feel free to explore the GIFs and generated images to witness the model's evolution. The notebook serves as a valuable resource for understanding the implementation details and training nuances of the SN GAN for MNIST dataset.
 
 Happy exploring and generating!
+
+![Epoch_20](https://github.com/DeepNets-US/Spectral-Normalization-GAN-SN-GAN-/assets/118154709/f194134d-7ea8-459f-9b91-542d459cc7ac)
